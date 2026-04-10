@@ -11,10 +11,10 @@ In this project, my focus was on deployment and infrastructure. I used a pre-bui
 EC2 (Docker Node App) → RDS (MySQL)
 
 # Technologies Used
-AWS EC2
-AWS RDS (MySQL)
-Docker
-Linux (Amazon Linux 2023)
+1. AWS EC2
+2. AWS RDS (MySQL)
+3. Docker
+4. Linux (Amazon Linux 2023)
 
 # Steps Performed
 1. Launch EC2 Instance
@@ -28,8 +28,8 @@ Linux (Amazon Linux 2023)
 Created RDS database
 
 # Step 2 
-Launch EC2
-Edit Security group Inbound rule HTTP on port 80, Sourse Anywhere-IPv4
+1. Launch EC2
+2. Edit Security group Inbound rule HTTP on port 80, Sourse Anywhere-IPv4
 
 # Step 3 
 EC2 Instance Connect 
